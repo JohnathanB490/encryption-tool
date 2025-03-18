@@ -14,6 +14,7 @@ A simple Python-based tool for encrypting and decrypting messages using **Fernet
    pip install cryptography
 
 2. Run the script:
+   ```bash
    python encrypt_decrypt.py
 
-3. Follow the menu to encrypt or decrypt messages.
+4. Follow the menu to encrypt or decrypt messages.
